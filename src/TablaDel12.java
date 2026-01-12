@@ -7,6 +7,6 @@ public class TablaDel12{
         }
         System.out.println("Se ha imprimido por pantalla la tabla del 12.");
         System.out.println("En el siguiente fichero se estará la tabla del 13.");
-        System.out.println("Desarrollado para la aplicación Maths (prueba 3 para generar el conflicto).");
+        System.out.println("Desarrollado para la aplicación Maths.");
     }
 }
